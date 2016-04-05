@@ -1,0 +1,4 @@
+《spring实战》第五章Demo
+利用Spring提供的JDBCTemplate进行数据库操作
+简化了JDBC模板代码，将其封装到了模板类中
+配置文件配置了DataSource和JDBCTemplate实现对数据库的访问
